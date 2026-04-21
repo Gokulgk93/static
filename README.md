@@ -1,1 +1,9 @@
-# static
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Azure Website</title>
+</head>
+<body>
+    <h1>Hello from Azure!</h1>
+</body>
+</html>
